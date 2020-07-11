@@ -1,0 +1,82 @@
+.container{
+    margin-bottom: 30px;
+}
+.bg-light{
+    background-color: #FFFFFF !important;
+}
+.bg-image{
+    background-image: url("../images/bg.png");
+}
+.carousel-indicators .active{
+     background-color:#FFCE1A!important;
+   
+  }
+  .carousel-indicators li{
+    background-color:grey!important;
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+ }
+.buy-now{
+    background-color:#7db572;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    
+}
+.carousel-item-text{
+    padding: 110px;
+    text-align: justify;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon{
+    height: 30px;
+    width: 50px;             
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.img-size{
+    width:200px;
+    height:200px;
+    padding-top: 30px;
+}
+.text-margin-card{
+    margin:30px 0px;
+}
+.category-margin{
+    margin-top:100px ;
+}
+hr{
+    background-image: linear-gradient(90deg,#FFC420,#FFB229,#FF9C35);
+    width: 100px;
+    height: 6px;
+}
+
+    /* categories class start */
+
+.cat1{
+   
+    padding:15px 56px 55px 57px
+
+}
+.bag{
+    box-shadow: 10px 10px 40px rgb(221, 225, 243);
+    padding: 18px;
+    border-radius: 5px 10px 5px 20px;
+    
+}
+
+.card{
+    border:none;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px grey
+}
+
+.perfume-shoe{
+    box-shadow: 10px 10px 40px rgb(221, 225, 243);
+    border-radius: 10px 5px 20px 5px;
+    padding: 5px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
